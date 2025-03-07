@@ -52,6 +52,8 @@ değişiklikler yapabilme becerisi kazandım.
 
 ![İSTATİSTİK](https://github.com/user-attachments/assets/e8385148-a853-4f2a-b5c6-c2fb5b9f98db)
 
+
+
  Bu proje de veritabanı işlemleri yapmayı kolaylaştıran bir nesne olan Entity Framework (EF)
  veritabanı tablolarını .NET nesnelerine eşleyerek veritabanı ile nesne tabanlı programlama 
  arasında bir köprü kurduk.Bu sayede SQL sorguları yazmak yerine .NET nesneleriyle çalışarak 
