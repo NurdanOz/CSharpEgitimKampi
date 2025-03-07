@@ -48,8 +48,19 @@ Veritabanı yönetiminin temelini oluşturan ve bir çok farklı uygulama taraf�
 CRUD (Create, Read, Update, Delete) yapısını kullanarak veri tabanı üzerinde çeşitli 
 değişiklikler yapabilme becerisi kazandım.
 
+# 📍11.Proje
 
+![İSTATİSTİK](https://github.com/user-attachments/assets/e8385148-a853-4f2a-b5c6-c2fb5b9f98db)
+
+ Bu proje de veritabanı işlemleri yapmayı kolaylaştıran bir nesne olan Entity Framework (EF)
+ veritabanı tablolarını .NET nesnelerine eşleyerek veritabanı ile nesne tabanlı programlama 
+ arasında bir köprü kurduk.Bu sayede SQL sorguları yazmak yerine .NET nesneleriyle çalışarak 
+ veritabanı işlemlerini gerçekleştirdik.Entity Framework .NET geliştiricileri için veritabanı 
+ işlemlerini kolaylaştıran güçlü bir araç olduğunu öğrendim. Entity Framework geliştirme hızını
+ artırdı, kodun okunabilirliğini ve bakımını kolaylaştırdı. 
+
+ C# öğrenmek sabır ve sürekli pratik gerektiren bir süreçtir ancak doğru kaynaklarla ve düzenli 
+ çalışmayla başarılı olabilirsiniz.Devam eden eğitimim ile birlikte ileride ki projelerde bu kazanımları 
+ daha da çoğaltacak yeni projelerle konuları pekiştireceğim!
  
-
-
 
